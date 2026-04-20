@@ -1,1 +1,12 @@
+print("Sistema SSD ejecutándose...")
 
+# Simulación de órdenes
+ordenes = [
+    {"orden_id": 1, "aging": 6, "linea": "L1"},
+    {"orden_id": 2, "aging": 2, "linea": "L3"},
+    {"orden_id": 3, "aging": 4, "linea": "L2"}
+]
+
+for orden in ordenes:
+    if orden["aging"] >= 5:
+        print(f" Orden crítica: {orden['orden_id']}")
