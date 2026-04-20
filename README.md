@@ -1,16 +1,16 @@
-# 📊 Sistema SSD - Órdenes de Producción
+# Sistema SSD - Órdenes de Producción
 
 > Automatización inteligente para detección de órdenes incompletas y reducción de aging en entornos industriales.
 
 ---
 
-## 📌 Descripción
+## Descripción
 
 Sistema de Soporte a Decisiones (SSD) que permite identificar órdenes incompletas, calcular su aging y generar alertas automáticas para mejorar la toma de decisiones en producción.
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 * Detección automática de órdenes incompletas
 * Cálculo de aging en tiempo real
@@ -19,7 +19,7 @@ Sistema de Soporte a Decisiones (SSD) que permite identificar órdenes incomplet
 
 ---
 
-## 🏗️ Arquitectura
+## Arquitectura
 
 1. Extracción de datos desde SQL Server
 2. Procesamiento con Python
@@ -29,7 +29,7 @@ Sistema de Soporte a Decisiones (SSD) que permite identificar órdenes incomplet
 
 ---
 
-## 🚀 Ejecución
+## Ejecución
 
 ```bash
 pip install -r requirements.txt
@@ -38,7 +38,7 @@ python src/main.py
 
 ---
 
-## 🧠 Tecnologías
+## Tecnologías
 
 * Python
 * SQL Server
@@ -47,7 +47,7 @@ python src/main.py
 
 ---
 
-## 🔮 Mejoras futuras
+## Mejoras futuras
 
 * Integración con Machine Learning
 * Alertas en tiempo real
@@ -55,7 +55,6 @@ python src/main.py
 
 ---
 
-## 👩‍💻 Autor
 
 Jazmín
 
