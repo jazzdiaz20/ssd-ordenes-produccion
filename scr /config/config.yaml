@@ -1,0 +1,9 @@
+database:
+  connection_string: "DRIVER={SQL Server};SERVER=TU_SERVER;DATABASE=TU_DB;Trusted_Connection=yes;"
+
+email:
+  smtp: "smtp.office365.com"
+  port: 587
+  user: "tu_correo@empresa.com"
+  password: "TU_PASSWORD"
+  to: "equipo@empresa.com"
